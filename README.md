@@ -1,4 +1,4 @@
-I am a Physics & Astronomy Ph.D. candidate at the University of North Carolina at Chapel Hill.
+I am a Physics & Astronomy Ph.D. student at the University of North Carolina at Chapel Hill.
 
 <!---
 swatalla/swatalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
